@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  resampler:
+    build: ./docker.resampler
+
+    environment:
+      - SAMPLERATE_OUT=200
+      - TIME_START=1000
+      - TIME_END=119000
+
+    volumes:
+      - ./data.in:/app/data.in:rw
+      - ./data.out:/app/data.out:rw
+
+    command: /app/convert-in2out.sh
