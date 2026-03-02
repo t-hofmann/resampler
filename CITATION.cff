@@ -1,0 +1,82 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Straub
+    given-names: Isabelle
+  - family-names: Kunstmann
+    given-names: Lukas
+  - family-names: Baeza-Lehnert
+    given-names: Felipe
+  - family-names: Chowdhry
+    given-names: Saad
+  - family-names: Renden
+    given-names: Robert B.
+  - family-names: Gonzalez-Aragón
+    given-names: Gerardo
+  - family-names: Groschup
+    given-names: Bernhard
+  - family-names: Hofmann
+    given-names: Thomas
+  - family-names: Jovanović
+    given-names: Saša
+  - family-names: Sonntag
+    given-names: Mandy
+  - family-names: Gitler
+    given-names: Daniel
+  - family-names: Schaefer
+    given-names: Michael
+  - family-names: Eilers
+    given-names: Jens
+  - family-names: Barros
+    given-names: L. Felipe
+  - family-names: Hirrlinger
+    given-names: Johannes
+  - family-names: Hallermann
+    given-names: Stefan
+title: Presynaptic ATP Decreases During Physiological-Like Activity in Neurons Tuned for High-Frequency Transmission
+version: 1.0.0
+url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jnc.70212
+doi: https://doi.org/10.1111/jnc.70212
+date-released: '2025-03-02'
+preferred-citation:
+  authors:
+    - family-names: Straub
+      given-names: Isabelle
+    - family-names: Kunstmann
+      given-names: Lukas
+    - family-names: Baeza-Lehnert
+      given-names: Felipe
+    - family-names: Chowdhry
+      given-names: Saad
+    - family-names: Renden
+      given-names: Robert B.
+    - family-names: Gonzalez-Aragón
+      given-names: Gerardo
+    - family-names: Groschup
+      given-names: Bernhard
+    - family-names: Hofmann
+      given-names: Thomas
+    - family-names: Jovanović
+      given-names: Saša
+    - family-names: Sonntag
+      given-names: Mandy
+    - family-names: Gitler
+      given-names: Daniel
+    - family-names: Schaefer
+      given-names: Michael
+    - family-names: Eilers
+      given-names: Jens
+    - family-names: Barros
+      given-names: L. Felipe
+    - family-names: Hirrlinger
+      given-names: Johannes
+    - family-names: Hallermann
+      given-names: Stefan
+  title: Presynaptic ATP Decreases During Physiological-Like Activity in Neurons Tuned for High-Frequency Transmission
+  doi: https://doi.org/10.1111/jnc.70212
+  url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jnc.70212
+  type: article-journal
+  pages: e70212
+  year: '2025'
+  conference: {}
+  publisher: {}
